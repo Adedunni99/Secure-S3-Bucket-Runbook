@@ -13,17 +13,17 @@ Pre-requisites;
 1 Create an Encrypted S3 Bucket
 
 
-  A. Login to S3 in the AWS Console
+   A. Login to S3 in the AWS Console
 
-  B. Click on “create bucket”
+   B. Click on “create bucket”
 
    C. Named my bucket—-”my-s3-littlebucket’’
 
    D. Scrolled down to Default encryption:
 
-  Select Enable 
+    Select Enable 
 
-  Chose SSE-S3 
+    Chose SSE-S3 
 
   E.    Enabled versioning
 
@@ -60,13 +60,13 @@ My “my-s3-littlebucket” bucket is encrypted
 
       C.   Check all four options :
 
-       Block public ACLs
+        Block public ACLs
 
-       Block public bucket policies
+        Block public bucket policies
 
-       Ignore public ACLs
+        Ignore public ACLs
 
-       Restrict public bucket policies
+        Restrict public bucket policies
 
      D.   Click on Save changes.
 
@@ -133,7 +133,7 @@ Paste this policy, replacing:
 ![WhatsApp Image 2025-10-20 at 21 36 36](https://github.com/user-attachments/assets/35e1ce96-f99b-410c-9fbc-29d0f41f5f57)
 
 
-  D.   Click Upload.
+   D.   Click Upload.
 
    E.   Files are now in S3.
 
@@ -177,4 +177,4 @@ Paste this policy, replacing:
 
   D.   Then delete
 
-https://github.com/Adedunni99/Secure-S3-Bucket-Runbook/blob/main/WhatsApp%20Image%202025-10-20%20at%2021.15.15.jpeg?raw=true
+![WhatsApp Image 2025-10-20 at 21 15 15](https://github.com/user-attachments/assets/3babb3d2-2c7a-4dac-a4b5-9899ef772363)
